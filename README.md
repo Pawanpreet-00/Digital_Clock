@@ -5,7 +5,7 @@ A responsive digital clock built using HTML, CSS, and JavaScript.
 
 - **HTML5**
 - **CSS3**
-- 
+ 
 
 ## 💡 JavaScript Functionalities
 
